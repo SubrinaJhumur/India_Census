@@ -3,7 +3,7 @@
 
 ### (A part of Big Data Analysis)
 
-## IDIA CENSUS 2011 DATASET
+## INDIA CENSUS 2011 DATASET
 
 This data is about total Population, Demography, Literacy, States, Workers, Religion, Education, Age
 The data used here is from 2011 India Census of each district
